@@ -23,7 +23,6 @@
         }
     ],
     "action": {
-        "default_popup": "email.html",
         "default_icon": "email-icon.png"
     }
 }
